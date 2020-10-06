@@ -4,4 +4,4 @@
 `pip install -r requirements.txt`
 
 edit the my_config file with your instagram credentials
-run unfollow_unfollowers.py 
+and run unfollow_unfollowers.py 
